@@ -1,3 +1,8 @@
 [submodule "dsarah-immersion-html-d01"]
 	path = dsarah-immersion-html-d01
 	url = https://gitlab.matrice.io/immersion-html-d01-888/dsarah-immersion-html-d01.git
+
+[submodule "dsarah-weatherforecast"]
+  path = dsarah-weatherforecast
+  url = https://gitlab.matrice.io/weatherforecast-893/dsarah-weatherforecast.git
+
